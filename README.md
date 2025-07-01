@@ -1,4 +1,6 @@
-# Jobify Tracking Web App - NextJS
+# Jobify - Job Tracking NextJS Web App
+
+![Screenshot 2025-07-01 at 15 31 44](https://github.com/user-attachments/assets/48f21eef-d40c-4e44-a585-a6b3f2417ebf) ![Screenshot 2025-07-01 at 14 33 39](https://github.com/user-attachments/assets/29e151c8-2deb-4dcd-8856-febb4c043abf) ![Screenshot 2025-07-01 at 14 48 55](https://github.com/user-attachments/assets/bf1eb91e-3b92-40a8-b78f-83ac1157919f) ![Screenshot 2025-07-01 at 14 51 02](https://github.com/user-attachments/assets/e41cb629-a0f8-4301-b926-969bf3d78cc3)
 
 ---
 
@@ -6,7 +8,7 @@
 
 **Jobify Tracking App** is a full-featured, modern job application tracking system built with [Next.js](https://nextjs.org/) (App Router), TypeScript, [Clerk](https://clerk.com/) authentication, [Prisma](https://www.prisma.io/) ORM, [React Query](https://tanstack.com/query), [shadcn/ui](https://ui.shadcn.com/), and [Tailwind CSS](https://tailwindcss.com/). It empowers job seekers to efficiently organize and analyze their job search journey via an intuitive dashboard, CRUD operations, analytics, authentication, theming, and a highly modular structure. This project is an excellent resource for learning and sharing advanced Next.js, React, and TypeScript techniques.
 
-- **Live-Demo:** _Coming Soon!_
+- **Live-Demo:** [https://jobify-tracker.vercel.app/](https://jobify-tracker.vercel.app/)
 
 ---
 
